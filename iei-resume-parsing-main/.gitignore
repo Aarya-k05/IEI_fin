@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+faculty_evaluator.db
+ranked_candidates.xlsx
+experience_accuracy_report.xlsx
